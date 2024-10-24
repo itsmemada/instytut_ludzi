@@ -5,6 +5,7 @@ import AboutContent from "../../content/AboutContent.json";
 import MissionContent from "../../content/MissionContent.json";
 import ProductContent from "../../content/ProductContent.json";
 import ContactContent from "../../content/ContactContent.json";
+import OfferContent from "../../content/OfferContent.json";
 
 const Contact = lazy(() => import("../../components/ContactForm"));
 const MiddleBlock = lazy(() => import("../../components/MiddleBlock"));
@@ -23,6 +24,13 @@ const Home = () => {
         button={IntroContent.button}
         icon="developer.svg"
         id="intro"
+      />
+       <ContentBlock
+        direction="left"
+        title={OfferContent.title}
+        content={OfferContent.text}
+        icon="waving.svg"
+        id="offer"
       />
       <MiddleBlock
         title={MiddleBlockContent.title}
