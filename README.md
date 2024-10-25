@@ -110,3 +110,4 @@ Licensed under the MIT license.
 [Landy]: https://www.npmjs.com/package/cra-template-adrinlol
 [Google Lighthouse]: https://developers.google.com/web/tools/lighthouse
 <!-- prettier-ignore-end -->
+25e23ba75eb73c8f797decfb675dadae09b6bff0
