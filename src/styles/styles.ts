@@ -75,6 +75,7 @@ export const Styles = createGlobalStyle`
         color: #18216d;
         font-size: 21px;        
         line-height: 1.41;
+	white-space: pre-wrap;
     }
 
     h1 {

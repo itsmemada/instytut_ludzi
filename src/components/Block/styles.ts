@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 export const Content = styled("p")`
   margin-top: 1.5rem;
+  white-pace: pre-wrap;
 `;
 
 export const Container = styled("div")`
