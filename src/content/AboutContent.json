@@ -1,16 +1,4 @@
 {
   "title": "Prelegenci i instruktorzy",
-  "text": "Prelegenci i instruktorzy naszej konferencji, to praktycy i pasjonaci w swojej dziedzinie. Osobiście wiele lat stosują wykładane techniki w codziennej pracy. Z pasją i oddaniem przekazują wiedzę słuchaczom. To jedyna taka okazja aby uczyć się od najlepszych.",
-  "section": [
-    {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
-    }
-  ]
+  "text": "Prelegenci i instruktorzy naszej konferencji, to praktycy i pasjonaci w swojej dziedzinie. Osobiście wiele lat stosują wykładane techniki w codziennej pracy. Z pasją i oddaniem przekazują wiedzę słuchaczom. To jedyna taka okazja aby uczyć się od najlepszych."
 }
